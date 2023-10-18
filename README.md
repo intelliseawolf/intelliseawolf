@@ -11,9 +11,9 @@ As a seasoned Full Stack Web and Blockchain Software Engineer, I bring to the ta
 • Node.js / Express / Nest.js / Laravel<br />
 • MySQL / MongoDB<br />
 • React Native / Ionic<br />
-• Web3 / Solidity<br />
-• Bit / Bit.dev<br />
-• AWS<br />
+• Web3 / Ethereum / Solana<br />
+• Bit / Bit.de / Storybookv<br />
+• AWS / GCP / Vercel<br />
 • Docker<br />
 
 😍 I am open for collaborating on open source and large & small projects and love for connecting with the other engineers.
