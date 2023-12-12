@@ -12,7 +12,7 @@ As a seasoned Full Stack Web and Blockchain Software Engineer, I bring to the ta
 • MySQL / MongoDB<br />
 • React Native / Ionic<br />
 • Web3 / Ethereum / Solana<br />
-• Bit / Bit.de / Storybookv<br />
+• Bit / Bit.de / Storybook<br />
 • AWS / GCP / Vercel<br />
 • Docker<br />
 
